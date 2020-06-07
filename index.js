@@ -1,0 +1,1 @@
+(function(){var toggle=document.getElementById('toggle-menu');var menu=document.getElementById('main-menu');toggle.addEventListener('click',function(event){event.preventDefault();menu.classList.toggle('is-open')})})()
